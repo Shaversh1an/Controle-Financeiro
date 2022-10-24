@@ -1,6 +1,6 @@
-<img href"./images/city" />
-
 # Getting Started with Create React App
+
+<img href"./images/city" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
