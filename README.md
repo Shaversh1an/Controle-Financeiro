@@ -1,4 +1,4 @@
-<img href"./images/city"
+<img href"./images/city" />
 
 # Getting Started with Create React App
 
